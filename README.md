@@ -1,4 +1,5 @@
-# Hey there 👋, I am Harsh Sharma
+<h1 align="center"> Hey there 👋, I am Harsh Sharma</h1>
+
 - **I am a CSE Big Data Analytics student at SRM Institute of Science and Technology, Chennai.**
 - **I Like To Implement My Skills On NLP And Deep Neural Networks**
 - **I am a sophomore and currently building skills to become a Data Scientist!**
