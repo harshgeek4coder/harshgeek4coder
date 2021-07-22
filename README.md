@@ -1,15 +1,8 @@
 # Hey there 👋, I am Harsh Sharma
-**I am a CSE Big Data Analytics student at SRM Institute of Science and Technology, Chennai.**
-**I Like To Implement My Skills On NLP And Deep Neural Networks**
-**I am a sophomore and currently building skills to become a Data Scientist!**
-**Here are few of my projects, feel free to explore and modify them! 😄**
+- **I am a CSE Big Data Analytics student at SRM Institute of Science and Technology, Chennai.**
+- **I Like To Implement My Skills On NLP And Deep Neural Networks**
+- **I am a sophomore and currently building skills to become a Data Scientist!**
 
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/harshgeek4coder/count.svg" alt="vistor count" height="30" /></td>
-  </tr>
-</table>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -32,10 +25,6 @@
 </h2>
 
 
-
-
-
-
 ## Skills
 
 ### Languages
@@ -46,9 +35,6 @@
   
  
 </p>
-
-
-
 
 
 ### Frameworks and libraries
@@ -68,18 +54,16 @@
 </p>
 
 
-
-
-
-
-
-
-
 ### Feel Free to connect!
 
-#### Stats:
- ![Harsh's Github Stats](https://github-readme-stats.vercel.app/api?username=harshgeek4coder&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshgeek4coder&theme=radical)](https://github.com/harshgeek4coder/github-readme-stats)
+<table align="center">
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/harshgeek4coder/count.svg" alt="vistor count" height="30" /></td>
+  </tr>
+</table>
 
+**Here are few of my projects, feel free to explore and modify them! 😄**
 <!--
 **harshgeek4coder/harshgeek4coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
