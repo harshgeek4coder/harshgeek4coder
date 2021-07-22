@@ -11,16 +11,22 @@
   </tr>
 </table>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=I+am+NLP+Geek%2C;Love+To+Work+Around+with+NLP%2C;Crazy+NLP+Enthusiast.">
+  </a>
+</h1>
 
-- 🌱 Currently learning Deep learning and NLP.
+- 🔭 I’m currently working on research projects and automative NLP Packaged Pipelines. 
+- 🌱 Currently exploring more in NLP.
 - 👯 Looking to collaborate on ML, DL,NLP,Data Science or Data Analytics Projects.
+- ⚡ Fun fact: Die hard Fan of EDM
 - 💬 Feel free to drop by a message!
 - 📫 How to reach me: Checkout My Portfolio Website or Social Accounts Given Below<br>
 
 <h2 align="center">
   <code>
     <a href="https://www.linkedin.com/in/harshsharma27" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>  
-  <code><a href="sharsh2222@gmail.com" title="Gmail"><img width="22" src="https://github.com/C-mmon/C-mmon/blob/main/svg/gmail.svg"> Gmail</a></code>
   <code><a href="https://twitter.com/harsh_sharma27" title="Twitter"><img width="22" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"> Twitter </a></code>
   
 </h2>
