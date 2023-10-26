@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on research projects and automative NLP Packaged Pipelines. 
 - 🌱 Currently exploring more in NLP.
-- 👯 Looking to collaborate on ML, DL,NLP,Data Science or Data Analytics Projects.
+- 👯 Looking to collaborate on ML, DL, NLP, Data Science or Data Analytics Projects.
 - ⚡ Fun fact: Die hard Fan of EDM
 - 💬 Feel free to drop by a message!
 - 📫 How to reach me: Checkout My Portfolio Website or Social Accounts Given Below<br>
